@@ -5,7 +5,7 @@ summary: Explore SQL database dumps in an offline environment.
 description: |
   A conveinence tool to explore mysqldumps in a confined environment.
   `dbdumpexplr` provides an offline environment for importing, exploring and exporting a mysql databasedump.
-grade: devel
+grade: stable
 confinement: strict
 
 apps:
